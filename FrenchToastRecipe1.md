@@ -1,5 +1,5 @@
 
-**Toby Zeldin Yaakov - RedHat Content Developer Test, Stretch Task**
+**Toby Zeldin Yaakov - Stretch Task **
 ***
 
 
@@ -41,6 +41,7 @@ Makes 4-6 servings. Total preparation time 20-30 min.
 2.	Add the soaked bread slices.
 3.	Press each slice down gently with a spatula to flatten it.
 4.	With the spatula, lift each slice occasionally to check if it’s browned.
+5.	Add the remainder of the butter gradualy, as needed, to keep the slices from sticking to the pan.
 5.	When a slice is browned on one side, flip it over.
 6.	When a slice is browned on the second side, remove it from the frying pan and place it in a serving dish.
 7.	Keep slices warm in a covered serving dish, until all slices are ready.
